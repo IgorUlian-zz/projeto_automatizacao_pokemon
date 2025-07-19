@@ -1,0 +1,58 @@
+[
+    {
+        "path": "Machoke/flag_0.png",
+        "blink_move": [
+            676,
+            470
+        ],
+        "wait": 9.08030366897583
+    },
+    {
+        "path": "Machoke/flag_1.png",
+        "blink_move": [
+            682,
+            463
+        ],
+        "wait": 12.415267944335938
+    },
+    {
+        "path": "Machoke/flag_2.png",
+        "blink_move": [
+            775,
+            375
+        ],
+        "wait": 12.055336952209473
+    },
+    {
+        "path": "Machoke/flag_3.png",
+        "blink_move": [
+            778,
+            361
+        ],
+        "wait": 9.663469791412354
+    },
+    {
+        "path": "Machoke/flag_4.png",
+        "blink_move": [
+            784,
+            280
+        ],
+        "wait": 13.775405168533325
+    },
+    {
+        "path": "Machoke/flag_5.png",
+        "blink_move": [
+            595,
+            464
+        ],
+        "wait": 25.239712476730347
+    },
+    {
+        "path": "Machoke/flag_6.png",
+        "blink_move": [
+            594,
+            272
+        ],
+        "wait": 16.83203125
+    }
+]
