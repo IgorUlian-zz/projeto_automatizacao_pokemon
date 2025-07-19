@@ -1,0 +1,74 @@
+[
+    {
+        "path": "lotad/flag_0.png",
+        "blink_move": [
+            772,
+            371
+        ],
+        "wait": 9.456593036651611
+    },
+    {
+        "path": "lotad/flag_1.png",
+        "blink_move": [
+            650,
+            457
+        ],
+        "wait": 7.000335216522217
+    },
+    {
+        "path": "lotad/flag_2.png",
+        "blink_move": [
+            761,
+            362
+        ],
+        "wait": 4.854462385177612
+    },
+    {
+        "path": "lotad/flag_3.png",
+        "blink_move": [
+            762,
+            374
+        ],
+        "wait": 7.463048219680786
+    },
+    {
+        "path": "lotad/flag_4.png",
+        "blink_move": [
+            766,
+            363
+        ],
+        "wait": 3.253800630569458
+    },
+    {
+        "path": "lotad/flag_5.png",
+        "blink_move": [
+            581,
+            353
+        ],
+        "wait": 4.038122892379761
+    },
+    {
+        "path": "lotad/flag_6.png",
+        "blink_move": [
+            765,
+            371
+        ],
+        "wait": 5.393010377883911
+    },
+    {
+        "path": "lotad/flag_7.png",
+        "blink_move": [
+            767,
+            358
+        ],
+        "wait": 8.575534582138062
+    },
+    {
+        "path": "lotad/flag_8.png",
+        "blink_move": [
+            568,
+            371
+        ],
+        "wait": 5.771836757659912
+    }
+]
